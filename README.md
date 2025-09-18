@@ -12,7 +12,7 @@ Utiliser un GAN conditionnel (cGAN) pour générer des données médicales synth
 - TensorFlow / Keras  
 - Pandas, Scikit-learn  
 - Matplotlib, Seaborn  
-- Flask (pour servir le modèle dans une API)  
+- Flask 
 
 🧪 **Étapes du projet**  
 1. Prétraitement des données (normalisation, split par classe)  
